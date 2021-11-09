@@ -1,0 +1,17 @@
+{
+  "name": "pup-scrape",
+  "version": "1.0.0",
+  "description": "Scrap USPS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "md5": "^2.3.0",
+    "puppeteer": "^11.0.0",
+    "sharp": "^0.29.2",
+    "yargs": "^17.2.1"
+  }
+}
